@@ -14,7 +14,7 @@ While the app is _mostly_ working there are a few issues that we've noticed:
 
 How to run the app (note: you will need Node and Yarn installed):
 1. Unzip the files.
-2. In the command terminal, navigate to the root of the unzipped site.
+2. In the command terminal, navigate to the root of the `site-files`.
 3. Run `yarn install`.
 4. Run `yarn run dev-server`.
 5. In your browser, go to `http://localhost:8081` to see the site.
